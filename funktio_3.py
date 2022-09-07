@@ -6,6 +6,6 @@ def laskeKolmionAla(kanta, korkeus):
 ka = float(input("Anna kolmion kanta   : "))
 ko = float(input("Anna kolmion korkeus : "))
 laskeKolmionAla(ka, ko)
-laskeKolmionAla(100, 200)
+print(f"Pääohjelmassa kanta = {ka} ja korkeus = {ko}")
 
 
